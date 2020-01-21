@@ -1,0 +1,15 @@
+{
+    "name": "batch-open-url",
+    "version": "1.0.0",
+    "description": "Open multiple pages for extreme research productivity",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Matheus Loures",
+    "license": "ISC",
+    "dependencies": {
+        "colorxjs": "^1.0.0",
+        "open-in-chrome": "0.0.2"
+    }
+}
